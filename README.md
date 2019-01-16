@@ -8,8 +8,9 @@ $ git clone https://github.com/hideraldus13/graphql_test.git
 $ cd graphql_test
 $ npm i
 $ node index.js
+
+//Comandos para Windows. Linux ou peso de papel não sei como funciona, mas é por aí.
 ```
-*comandos para Windows. Linux ou peso de papel não sei como funciona, mas é por aí.*
 
 ## Testando a aplicação
 
