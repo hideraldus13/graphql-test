@@ -9,6 +9,7 @@ $ cd graphql_test
 $ npm i
 $ node index.js
 ```
+*comandos para Windows. Linux ou peso de papel não sei como funciona, mas é por aí.*
 
 ## Testando a aplicação
 
