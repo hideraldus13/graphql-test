@@ -40,7 +40,13 @@ let schema = new graphql.GraphQLSchema({
 					})
 					return response
 				}
-			}
+			},
+			users: {
+				type: new graphql.GraphQLList(userType),
+				resolve: function (_ , args) {
+				  return users
+				}
+			  }
 		}
 	})
 })

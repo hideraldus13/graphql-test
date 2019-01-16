@@ -12,11 +12,21 @@ $ node index.js
 
 ## Testando a aplicação
 
+### Retornando todos os usuários
+
+Cole no navegador http://localhost:3000/user?query={users{id,name,age,knowledge{language,frameworks}}}
+
+Manipule 'id,name,age,knowledge{language,frameworks}' para refinar o resultado da query.
+
+
+### Retornando um usuário específico
+
 Cole no navegador http://localhost:3000/user?query={user(id:1){id,name,age,knowledge{language,frameworks}}}
 
 Nesta query, troque o valor de 'id' para buscar outros 'users'. 
 
 Manipule 'id,name,age,knowledge{language,frameworks}' para refinar o resultado da query.
+
 
 <b> Be Happy! </b>
 
