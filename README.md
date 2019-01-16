@@ -10,7 +10,7 @@ $ npm i
 $ node index.js
 ```
 
-### Testando a aplicação
+## Testando a aplicação
 
 Cole no navegador http://localhost:3000/user?query={user(id:1){id,name,age,knowledge{language,frameworks}}}
 
@@ -18,7 +18,8 @@ Nesta query, troque o valor de 'id' para buscar outros 'users'.
 
 Manipule 'id,name,age,knowledge{language,frameworks}' para refinar o resultado da query.
 
-#### Dale na baga!
+<b> Be Happy! </b>
+
 
 
 > Contribua com este aplicativo e ajude o TEAM RUD BULL a crescer!
