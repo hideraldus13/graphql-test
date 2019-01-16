@@ -3,12 +3,12 @@
 Estrutura simples para testes de GraphQL.
 
 Fast Track
-'''bash
+```bash
 $ git clone https://github.com/hideraldus13/graphql_test.git
 $ cd graphql_test
 $ npm i
 $ node index.js
-'''
+```
 
 Cole no navegador http://localhost:3000/user?query={user(id:1){id,name,age,knowledge{language,frameworks}}}
 
