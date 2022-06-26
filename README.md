@@ -1,8 +1,14 @@
-# Teste de GraphQL / Node.js
+# Fast Track GraphQL + Node.js
 
 Estrutura simples para testes de GraphQL.
 
-## Fast Track
+<sub>Diga "Oi" <br> 
+    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/hideraldus13)
+    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hideraldoluis/) 
+    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/) 
+</sub>
+
+## :runner: Fast Track
 * Pré requisitos: <b>Git e Node</b>
 ```bash
 $ git clone https://github.com/hideraldus13/graphql_test.git
@@ -13,7 +19,7 @@ $ npm start
 //Comandos para Windows. Linux ou Mac não sei como funciona, mas é por aí.
 ```
 
-## Testando a aplicação
+## :candy: Testando a aplicação
 
 ### Retornando todos os usuários
 
